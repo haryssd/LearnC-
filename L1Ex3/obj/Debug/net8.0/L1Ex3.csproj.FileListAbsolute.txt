@@ -1,0 +1,15 @@
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\bin\Debug\net8.0\L1Ex3.exe
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\bin\Debug\net8.0\L1Ex3.deps.json
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\bin\Debug\net8.0\L1Ex3.runtimeconfig.json
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\bin\Debug\net8.0\L1Ex3.dll
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\bin\Debug\net8.0\L1Ex3.pdb
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.AssemblyInfoInputs.cache
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.AssemblyInfo.cs
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.csproj.CoreCompileInputs.cache
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.sourcelink.json
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.dll
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\refint\L1Ex3.dll
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.pdb
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\L1Ex3.genruntimeconfig.cache
+C:\Users\haris.daniel\Desktop\CIBC\LearnC#\L1Ex3\obj\Debug\net8.0\ref\L1Ex3.dll
