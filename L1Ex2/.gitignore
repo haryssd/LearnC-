@@ -1,0 +1,12 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# Optional: ignore additional VS-specific files
+.vs/
+*.userprefs
