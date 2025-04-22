@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haris.daniel\\Desktop\\CIBC\\LearnC#\\L1Ex1\\L1Ex2\\L1Ex2.csproj",
-      "projectName": "L1Ex2",
-      "projectPath": "C:\\Users\\haris.daniel\\Desktop\\CIBC\\LearnC#\\L1Ex1\\L1Ex2\\L1Ex2.csproj",
+      "projectUniqueName": "C:\\Users\\haris.daniel\\Desktop\\CIBC\\LearnC#\\L2\\L2Ex1\\L2Ex1.csproj",
+      "projectName": "L2Ex1",
+      "projectPath": "C:\\Users\\haris.daniel\\Desktop\\CIBC\\LearnC#\\L2\\L2Ex1\\L2Ex1.csproj",
       "packagesPath": "C:\\Users\\haris.daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haris.daniel\\Desktop\\CIBC\\LearnC#\\L1Ex1\\L1Ex2\\obj\\",
+      "outputPath": "C:\\Users\\haris.daniel\\Desktop\\CIBC\\LearnC#\\L2\\L2Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
